@@ -1,21 +1,20 @@
 ---
-title: "Automatic heading links in mdsvex"
-date: "2023-10-26"
-updated: "2023-10-26"
+title: "Hệ thống phân tán"
+date: "2025-04-28"
+updated: "2025-04-28"
 categories:
   - "sveltekit"
   - "markdown"
-coverImage: "/images/jefferson-santos-fCEJGBzAkrU-unsplash.jpg"
+coverImage: "/images/2.jpg"
 coverWidth: 16
 coverHeight: 9
-excerpt: Check out how heading links work with this starter in this post.
+excerpt: Blog đầu tiên về Hệ thống phân tán.
 ---
 
-Here are some headings:
+## Hệ thống phân tán là gì? 
+Hệ thống phân tán (Distributed System) là một tập hợp các máy tính độc lập (nodes) được liên kết với nhau qua mạng, phối hợp cùng nhau để thực hiện một nhiệm vụ chung, nhưng đối với người dùng thì nó hoạt động như một hệ thống duy nhất.
 
-## Here's an h2
-
-Lorem ipsum dolor sit amet
+Ví dụ: Facebook, Amazone,...
 
 ### This is an h3
 
